@@ -7,3 +7,8 @@ Nesta apresentação, foi abordado alguns temas de interesse da equipe, com uma 
 [Apresentação - GPI.pdf](https://github.com/user-attachments/files/25614432/Apresentacao.-.GPI.pdf)
 
 <img width="585" height="333" alt="image" src="https://github.com/user-attachments/assets/613e0365-7e32-4c5f-a669-1bf29d328226" />
+
+## Aula 06/03/2026 - Apresentação em equipe utilizando software de design gráfico.
+### Apresentação confeccionada utilizando software gráfico "Canva".
+Nesta apresentação, foi solicitado pela "cliente" Latifa um vestido de noiva indiana para o casamento da amiga dela, contendo kickoff e proposta dos modelos.
+
