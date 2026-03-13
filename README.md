@@ -12,3 +12,11 @@ Nesta apresentação, foi abordado alguns temas de interesse da equipe, com uma 
 ### Apresentação confeccionada utilizando software gráfico "Canva".
 Nesta apresentação, foi solicitado pela "cliente" Latifa um vestido de noiva indiana para o casamento da amiga dela, contendo kickoff e proposta dos modelos.
 
+
+
+
+
+### Realizada uma planilha no excel do balancete de receita da prefeitura de São José dos Campos.
+
+
+
