@@ -12,7 +12,7 @@ Nesta apresentação, foi abordado alguns temas de interesse da equipe, com uma 
 ### Apresentação confeccionada utilizando software gráfico "Canva".
 Nesta apresentação, foi solicitado pela "cliente" Latifa um vestido de noiva indiana para o casamento da amiga dela, contendo kickoff e proposta dos modelos.
 
-
+https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/APRESENTA%C3%87%C3%83O%20VESTIDO%20DE%20NOIVA.pdf
 
 
 
