@@ -29,3 +29,8 @@ Despesa função da prefeitura de São José dos Campos.
 https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/despesa_funcao.xlsx
 
 https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/despesa%20fun%C3%A7%C3%A3o.png
+
+## Terceira planilha de excel.
+Despesa fornecedor/credor da prefeitura de São José dos Campos.
+
+https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/fornecedores.xlsx
