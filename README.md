@@ -20,3 +20,9 @@ https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/
 
 
 
+
+
+## Segunda planilha de excel da despesa função da prefeitura de São José dos Campos
+
+https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/despesa_funcao.xlsx
+
