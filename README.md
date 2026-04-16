@@ -12,27 +12,34 @@ Nesta apresentação, foi abordado alguns temas de interesse da equipe, com uma 
 ### Apresentação confeccionada utilizando software gráfico "Canva".
 Nesta apresentação, foi solicitado pela "cliente" Latifa um vestido de noiva indiana para o casamento da amiga dela, contendo kickoff e proposta dos modelos.
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/APRESENTA%C3%87%C3%83O%20VESTIDO%20DE%20NOIVA.pdf
+[APRESENTAÇÃO VESTIDO DE NOIVA.pdf](https://github.com/user-attachments/files/26801354/APRESENTACAO.VESTIDO.DE.NOIVA.pdf)
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20203725.png
+
+<img width="1189" height="666" alt="latifa" src="https://github.com/user-attachments/assets/d0cf204a-e7f8-49e3-a545-8a66f5c2171d" />
+
 
 ## Primeira planilha de excel.
 Balancete de receita da prefeitura de São José dos Campos.
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/balancete_receita.xlsx
+[balancete_receita.xlsx](https://github.com/user-attachments/files/26801315/balancete_receita.xlsx)
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20212707.png
+<img width="1393" height="595" alt="Balancete receita" src="https://github.com/user-attachments/assets/c9d9d58c-7072-4f54-9bc6-3e47556c77bf" />
+
+
 
 ## Segunda planilha de excel.
 Despesa função da prefeitura de São José dos Campos.
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/despesa_funcao.xlsx
+[despesa_funcao.xlsx](https://github.com/user-attachments/files/26801328/despesa_funcao.xlsx)
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/despesa%20fun%C3%A7%C3%A3o.png
+<img width="1755" height="671" alt="despesa função" src="https://github.com/user-attachments/assets/41346e3f-8f99-4067-b989-120c0cc2495f" />
+
 
 ## Terceira planilha de excel.
 Despesa fornecedor/credor da prefeitura de São José dos Campos.
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/fornecedores.xlsx
+[fornecedores.xlsx](https://github.com/user-attachments/files/26801333/fornecedores.xlsx)
 
-https://github.com/KevinFeltrin22/Fonte-de-Informa-o-e-Banco-de-Dados/blob/main/despesa%20por%20fornecedor%20credor.png
+
+<img width="1554" height="656" alt="despesa por fornecedor credor" src="https://github.com/user-attachments/assets/6dc9580a-5678-4a08-8aed-c27b9cc6ec92" />
+
