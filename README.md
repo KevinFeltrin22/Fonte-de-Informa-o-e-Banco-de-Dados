@@ -20,7 +20,7 @@ Nesta apresentação, foi solicitado pela "cliente" Latifa um vestido de noiva i
 
 ## Aula 12/03/2026 - Dados do Balancete de Receita
 
-Extraimos os dados do site da prefeitura de São José dos Campos para analisarmos Impostos, contribuições, receita patrimonial, tranferências correntes e os valores de cada uma, criando um gráfico visual. 
+Extraimos os dados do site da prefeitura de São José dos Campos para analisarmos Impostos, contribuições, receita patrimonial, tranferências correntes e os valores de cada uma utilizando PROC.V e SOMA.SE, criando um gráfico visual. 
 
 [balancete_receita.xlsx](https://github.com/user-attachments/files/26801315/balancete_receita.xlsx)
 
@@ -29,16 +29,15 @@ Extraimos os dados do site da prefeitura de São José dos Campos para analisarm
 
 ## Aula 13/03/2026 - Dados Despesa Função
 
-Nesta aula analisamos os dados das despesas de Fevereiro de 2026 da prefeitura de São José dos campos de encargos, gabinete do prefeito e das secretarias de educação, saúde, manutenção, mobilidade, etc... e observando os valores que foram pagos e em seguida criamos um gráfico visual sobre essas informações.
+Nesta aula analisamos os dados das despesas de Fevereiro de 2026 da prefeitura de São José dos campos de encargos, gabinete do prefeito e das secretarias de educação, saúde, manutenção, mobilidade, etc... observando os valores que foram pagos e em seguida criamos um gráfico visual sobre essas informações.
 
 [despesa_funcao.xlsx](https://github.com/user-attachments/files/26801328/despesa_funcao.xlsx)
 
 <img width="1755" height="671" alt="despesa função" src="https://github.com/user-attachments/assets/41346e3f-8f99-4067-b989-120c0cc2495f" />
 
+### Dados Despesas de Fornecedores
 
-## Aula 13/03/2026 - Dados Despesas de Fornecedores
-
-Foram analisados os dados das despesas de fornecedores credor pelo site da prefeitura de São José dos Campos, dos meses de Janeiro a Março de 2026 com os valores totais dos pagamentos
+Foram analisados os dados das despesas de fornecedores credor pelo site da prefeitura de São José dos Campos, dos meses de Janeiro a Março de 2026 com os valores totais dos pagamentos utilizando SOMA.SE e CONT.SE
 
 [fornecedores.xlsx](https://github.com/user-attachments/files/26801333/fornecedores.xlsx)
 
@@ -57,7 +56,7 @@ Curso de 20 horas concluído dia 05/04/2026 pela plataforma Aprenda Mais com o a
 
 ## Aula 09 e 10/04/2026 - Dados de Matriculas Inep
 
-Foram extraidos os dados abertos do estado de São Paulo e baixado o conjunto de dados de matriculas de estudantes de unversidades, onde elaboramos perguntas, e estatisticas destes dados e formamos gráficos para melhor visualização e interpretação.
+Foram extraidos os dados abertos do estado de São Paulo e baixado o conjunto de dados de matriculas de estudantes de unversidades, onde elaboramos perguntas, e estatisticas destes dados utilizando SOMASES e formamos gráficos para melhor visualização e interpretação.
 
 
 <img width="455" height="216" alt="pergunta 1" src="https://github.com/user-attachments/assets/4d4b4e4b-893a-4c76-abcb-43a464156bb5" />
