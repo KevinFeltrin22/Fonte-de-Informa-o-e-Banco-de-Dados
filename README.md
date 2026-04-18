@@ -56,7 +56,7 @@ Curso de 20 horas concluído dia 05/04/2026 pela plataforma Aprenda Mais com o a
 
 ## Aula 09 e 10/04/2026 - Dados de Matriculas Inep
 
-Foram extraidos os dados abertos do estado de São Paulo e baixado o conjunto de dados de matriculas de estudantes de unversidades, onde elaboramos perguntas, e estatisticas destes dados utilizando SOMASES e formamos gráficos para melhor visualização e interpretação.
+Foram extraidos os dados abertos do estado de São Paulo e baixado o conjunto de dados de matrículas de estudantes de unversidades, onde elaboramos perguntas, e estatisticas destes dados utilizando SOMASES e formamos gráficos para melhor visualização e interpretação.
 
 
 <img width="455" height="216" alt="pergunta 1" src="https://github.com/user-attachments/assets/4d4b4e4b-893a-4c76-abcb-43a464156bb5" />
