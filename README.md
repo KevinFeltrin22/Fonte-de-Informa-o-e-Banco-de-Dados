@@ -54,7 +54,7 @@ Curso de 20 horas concluído dia 05/04/2026 pela plataforma Aprenda Mais com o a
 <img width="749" height="513" alt="certificado" src="https://github.com/user-attachments/assets/fa620a00-8462-4e69-a2cb-fca42740ba2a" />
 
 
-## Aula 09 e 10/04/2026 - Dados de Matriculas Inep
+## Aula 09 e 10/04/2026 - Dados de Matrículas Inep
 
 Foram extraidos os dados abertos do estado de São Paulo e baixado o conjunto de dados de matrículas de estudantes de unversidades, onde elaboramos perguntas, e estatisticas destes dados utilizando SOMASES e formamos gráficos para melhor visualização e interpretação.
 
