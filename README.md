@@ -92,3 +92,12 @@ Foi atribuido para nós desenvolver uma análise de dados do estado de São Paul
 
 
 <img width="1041" height="340" alt="pergunta 5" src="https://github.com/user-attachments/assets/005ea860-1e86-4d2b-bd21-60dfc7eff50b" />
+
+## Aula 17/04/2026 - Curso Introdução á Análise de Dados da Microsoft
+
+Curso realizado pela escola do trabalador 4.0 com a pontuação de 83,3%
+
+[Certificado power bi.pdf](https://github.com/user-attachments/files/27031067/Certificado.power.bi.pdf)
+
+<img width="1121" height="791" alt="Captura de tela 2026-04-23 204236" src="https://github.com/user-attachments/assets/b3ab6fbf-6b0e-45af-87f3-4dbb875fca5b" />
+
