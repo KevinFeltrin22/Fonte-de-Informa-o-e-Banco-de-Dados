@@ -111,6 +111,7 @@ Nesta aula começamos a mexer no power bi, exportando dados da prefeitura de Sã
 No dia 24 foi extraidos os dados de Educação de ensino superior no site de dados abertos do estado de São Paulo e exportamos ele para o Power BI com Quatro visualizações (Gráfico de colunas, Gráfico de pizza, Cartão e Imagem interativa).
 
 
+
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/092fedb6-692b-4ef2-a274-95a1ab60b6e2" />
 
 
