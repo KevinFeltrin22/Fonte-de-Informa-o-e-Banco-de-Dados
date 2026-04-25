@@ -101,14 +101,16 @@ Curso realizado pela escola do trabalador 4.0 com a pontuação de 83,3%
 
 <img width="1121" height="791" alt="Captura de tela 2026-04-23 204236" src="https://github.com/user-attachments/assets/b3ab6fbf-6b0e-45af-87f3-4dbb875fca5b" />
 
-## Aula 23/04/2026 - Power Bi
+## Aula 23 e 24/04/2026 - Power Bi
 
 Nesta aula começamos a mexer no power bi, exportando dados da prefeitura de São José dos Campos e fazendo um dashboard no power bi.
 
+<img width="1873" height="868" alt="Captura de tela 2026-04-24 213127" src="https://github.com/user-attachments/assets/9f296508-e546-476d-9090-db6dfe14a883" />
 
 
+No dia 24 foi extraidos os dados de Educação de ensino superior no site de dados abertos do estado de São Paulo e exportamos ele para o Power BI com Quatro visualizações (Gráfico de colunas, Gráfico de pizza, Cartão e Imagem interativa).
 
 
-<img width="1919" height="1023" alt="Captura de tela 2026-04-23 212331" src="https://github.com/user-attachments/assets/aeeb79b9-d49e-4d91-b952-7cd86c6a7f31" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/092fedb6-692b-4ef2-a274-95a1ab60b6e2" />
 
 
