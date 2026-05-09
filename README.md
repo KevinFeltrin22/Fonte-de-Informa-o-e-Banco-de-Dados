@@ -115,3 +115,13 @@ No dia 24 foi extraidos os dados de Educação de ensino superior no site de dad
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/092fedb6-692b-4ef2-a274-95a1ab60b6e2" />
 
 
+## Aula 08/05/2026 - Power BI
+
+Nesta aula extraimos os dados abertos de SP de empregos formais criando um mapa geografico e dashboards. Nestes gráficos tivemos as seguintes conclusões:
+
+2020 foi o menor saldo de movimentação
+
+<img width="1157" height="656" alt="image" src="https://github.com/user-attachments/assets/8f4d478d-0c4e-4109-9416-563c470ff1b0" />
+
+
+
