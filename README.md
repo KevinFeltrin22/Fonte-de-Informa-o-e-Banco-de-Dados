@@ -124,4 +124,9 @@ Nesta aula extraimos os dados abertos de SP de empregos formais criando um mapa 
 <img width="1157" height="656" alt="image" src="https://github.com/user-attachments/assets/8f4d478d-0c4e-4109-9416-563c470ff1b0" />
 
 
+## Aula 14/05/2026 - Regressão Linear
+
+Nesta Aula realizamos um gráfico de dispersão para analisar a regressão linear "Ice cream sales vs Temperature"
+
+<img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/0e8b2bfd-bfb4-4b29-b230-f67941cf4b09" />
 
