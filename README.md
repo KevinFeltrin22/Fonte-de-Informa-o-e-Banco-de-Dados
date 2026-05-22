@@ -139,5 +139,8 @@ Extraimos os dados de consumo de cerveja do estado de São Paulo pelo "Kaggle" e
 
 <img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/2d7333f2-5447-407e-8af3-e77965128441" />
 
+<img width="953" height="558" alt="image" src="https://github.com/user-attachments/assets/8d674586-47b9-4c99-9f09-78a4aab94cdb" />
+
+
 
 
