@@ -135,6 +135,9 @@ Nesta Aula realizamos um gráfico de dispersão para analisar a regressão linea
 
 Extraimos os dados de consumo de cerveja do estado de São Paulo pelo "Kaggle" e realizamos um  gráfico de regressão Linear utilizando Python (Google Colab) e IA.
 
+[Uploading Consumo_cerveja.csv…]()
+
+
 <img width="933" height="546" alt="image" src="https://github.com/user-attachments/assets/2aa90ea5-eb21-4b80-ad2e-2857c06d8a48" />
 
 <img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/2d7333f2-5447-407e-8af3-e77965128441" />
