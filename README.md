@@ -144,6 +144,14 @@ Extraimos os dados de consumo de cerveja do estado de São Paulo pelo "Kaggle" e
 
 <img width="953" height="558" alt="image" src="https://github.com/user-attachments/assets/8d674586-47b9-4c99-9f09-78a4aab94cdb" />
 
+## Aula 22/05/2026 - Preparação para a prova
+
+Pelo site Kaggle, coletamos os dados de consumo de cerveja do estado de São Paulo e Vendas de Sorvete por temperatura e em seguida tratado os dados e realizado dashboards no power BI.
+
+<img width="1917" height="998" alt="image" src="https://github.com/user-attachments/assets/7375fbc8-0b6d-4e97-bf2b-19333d70d024" />
+
+
+
 
 
 
