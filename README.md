@@ -150,6 +150,17 @@ Pelo site Kaggle, coletamos os dados de consumo de cerveja do estado de São Pau
 
 <img width="1917" height="998" alt="image" src="https://github.com/user-attachments/assets/7375fbc8-0b6d-4e97-bf2b-19333d70d024" />
 
+## Aula 29/05/2026 - Prova 1
+
+Foi realizado a prova 1 de banco de dados utilizando a plataforma forms e power bi.
+
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/b297b50d-d5c1-4ed3-9c82-cac862ea7732" />
+
+
+<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/f29e8b22-103c-422e-a86b-626b910aa849" />
+
+
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/4a40c343-37a8-418c-a9f2-820387532973" />
 
 
 
